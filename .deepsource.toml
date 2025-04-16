@@ -1,0 +1,9 @@
+version = 1
+
+[[analyzers]]
+name = "java"
+enabled = true
+
+[[tests]]
+name = "test"
+command = "mvn test"  # 如果是 Maven
