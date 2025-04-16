@@ -6,4 +6,4 @@ enabled = true
 
 [[tests]]
 name = "test"
-command = "mvn test"  # 如果是 Maven 
+command = "mvn test"  # 如果是 Maven
